@@ -1,0 +1,11 @@
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\bin\Debug\netcoreapp2.1\NodeDemo.deps.json
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\bin\Debug\netcoreapp2.1\NodeDemo.runtimeconfig.json
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\bin\Debug\netcoreapp2.1\NodeDemo.runtimeconfig.dev.json
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\bin\Debug\netcoreapp2.1\NodeDemo.dll
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\bin\Debug\netcoreapp2.1\NodeDemo.pdb
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.csprojAssemblyReference.cache
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.csproj.CoreCompileInputs.cache
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.AssemblyInfoInputs.cache
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.AssemblyInfo.cs
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.dll
+D:\Algoritmi\02. Linked-List-CSharp-Skeleton\NodeDemo\obj\Debug\netcoreapp2.1\NodeDemo.pdb
